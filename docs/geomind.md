@@ -1,0 +1,4 @@
+ 
+# geomind module
+
+::: geomind.geomind
