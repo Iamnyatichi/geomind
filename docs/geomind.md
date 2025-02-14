@@ -1,4 +1,4 @@
- 
+
 # geomind module
 
 ::: geomind.geomind
