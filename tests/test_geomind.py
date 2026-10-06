@@ -2,7 +2,6 @@
 
 """Tests for `geomind` package."""
 
-
 import unittest
 
 from geomind import geomind
